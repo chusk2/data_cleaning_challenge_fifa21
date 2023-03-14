@@ -1,4 +1,4 @@
-# data_cleaning_challenge_fifa21
+# Data Cleaning Challenge FIFA 21
 
 This is the result of the data cleaning challenge from twitter 
 [#DataCleaningchallenge](https://twitter.com/hashtag/DataCleaningchallenge?src=hashtag_click)
