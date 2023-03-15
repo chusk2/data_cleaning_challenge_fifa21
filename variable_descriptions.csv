@@ -1,78 +1,76 @@
 variable,description
-photoUrl,The URL of the player's photo.
-LongName,The full name of the player.
-playerUrl,The URL of the player's page on sofifa.com.
-Nationality,The nationality of the player.
-Positions,The positions the player can play.
-Name,The short name of the player.
-Age,The age of the player.
-OVA,The overall rating of the player in FIFA 21.
-POT,The potential rating of the player in FIFA 21.
-Team & Contract,"The team the player is playing for in FIFA 21, along with their contract details."
-ID,The unique identifier for the player.
-Height,The height of the player in feet and inches.
-Weight,The weight of the player in pounds.
-foot,The preferred foot of the player.
-BOV,The best overall rating the player has achieved in their career.
-BP,The best position the player has played in their career.
-Growth,The difference between the potential rating and overall rating of the player.
-Joined,The date the player joined their current team in FIFA 21.
-Loan Date End,The date the player's loan contract ends.
-Value,The market value of the player in FIFA 21.
-Wage,The weekly wage of the player in FIFA 21.
-Release Clause,The release clause value of the player in FIFA 21.
-Attacking,The attacking attributes of the player.
-Crossing,The crossing attribute of the player.
-Finishing,The finishing attribute of the player.
-Heading Accuracy,The heading accuracy attribute of the player.
-Short Passing,The short passing attribute of the player.
-Volleys,The volleys attribute of the player.
-Skill,The skill attributes of the player.
-Dribbling,The dribbling attribute of the player.
-Curve,The curve attribute of the player.
-FK Accuracy,The free kick accuracy attribute of the player.
-Long Passing,The long passing attribute of the player.
-Ball Control,The ball control attribute of the player.
-Movement,The movement attributes of the player.
-Acceleration,The acceleration attribute of the player.
-Sprint Speed,The sprint speed attribute of the player.
-Agility,The agility attribute of the player.
-Reactions,The reactions attribute of the player.
-Balance,The balance attribute of the player.
-Power,The power attributes of the player.
-Shot Power,The shot power attribute of the player.
-Jumping,The jumping attribute of the player.
-Stamina,The stamina attribute of the player.
-Strength,The strength attribute of the player.
-Long Shots,The long shots attribute of the player.
-Mentality,The mentality attributes of the player.
-Aggression,The aggression attribute of the player.
-Interceptions,The interceptions attribute of the player.
-Positioning,The positioning attribute of the player.
-Vision,The vision attribute of the player.
-Penalties,The penalties attribute of the player.
-Composure,The composure attribute of the player.
-Defending,The defending attributes of the player.
-Marking,The marking attribute of the player.
-Standing Tackle,The standing tackle attribute of the player.
-Sliding Tackle,The sliding tackle attribute of the player.
-Goalkeeping,The goalkeeping attributes of the player.
-GK Diving,The goalkeeper diving attribute of the player.
-GK Handling,The goalkeeper handling attribute of the player.
-GK Kicking,The goalkeeper kicking attribute of the player.
-GK Positioning,The goalkeeper positioning attribute of the player.
-GK Reflexes,This refers to the goalkeeper's ability to react and make saves quickly.
-Total Stats,This refers to the overall rating of the player based on their performance in all areas of the game.
-Base Stats,This refers to the player's rating in the six main areas of the game
-W/F,This refers to the player's weaker foot ability.
-SM,This refers to the player's skill moves ability. 
-A/W,"This refers to the player's attacking work rate. It measures how frequently the player participates in attacking actions, such as making runs or positioning themselves in the opponent's half."
-D/W,"This refers to the player's defensive work rate. It measures how frequently the player participates in defensive actions, such as tracking back or making tackles."
-IR,This refers to the player's injury resistance. It measures the player's ability to avoid injuries and how quickly they recover from them.
-PAC,This refers to the player's pace or speed attribute. It measures how quickly the player can move with and without the ball.
-SHO,This refers to the player's shooting ability. It measures the player's accuracy and power when shooting the ball.
-PAS,This refers to the player's passing ability. It measures the player's accuracy and range when passing the ball.
-DRI,"This refers to the player's dribbling ability. It measures the player's agility, balance, and ball control when dribbling the ball."
-DEF,"This refers to the player's defensive ability. It measures the player's ability to tackle, intercept, and defend against opposing players. "
-PHY,This refers to the player's physicality or strength. It measures the player's ability to win physical battles and maintain possession of the ball. 
-Hits,This refers to the number of times the player's profile has been viewed on the website.
+photourl,The URL of the player's photo.
+longname,The full name of the player.
+playerurl,The URL of the player's page on sofifa.com.
+nationality,The nationality of the player.
+positions,The positions the player can play.
+name,The short name of the player.
+age,The age of the player.
+pot,The potential rating of the player in FIFA 21.
+id,The unique identifier for the player.
+bov,The best overall rating the player has achieved in their career.
+joined,The date the player joined their current team in FIFA 21.
+loan_date_end,The date the player's loan contract ends.
+attacking,The attacking attributes of the player.
+crossing,The crossing attribute of the player.
+finishing,The finishing attribute of the player.
+heading_accuracy,The heading accuracy attribute of the player.
+short_passing,The short passing attribute of the player.
+volleys,The volleys attribute of the player.
+skill,The skill attributes of the player.
+dribbling,The dribbling attribute of the player.
+curve,The curve attribute of the player.
+fk_accuracy,The free kick accuracy attribute of the player.
+long_passing,The long passing attribute of the player.
+ball_control,The ball control attribute of the player.
+movement,The movement attributes of the player.
+acceleration,The acceleration attribute of the player.
+sprint_speed,The sprint speed attribute of the player.
+agility,The agility attribute of the player.
+reactions,The reactions attribute of the player.
+balance,The balance attribute of the player.
+power,The power attributes of the player.
+shot_power,The shot power attribute of the player.
+jumping,The jumping attribute of the player.
+stamina,The stamina attribute of the player.
+strength,The strength attribute of the player.
+long_shots,The long shots attribute of the player.
+mentality,The mentality attributes of the player.
+aggression,The aggression attribute of the player.
+interceptions,The interceptions attribute of the player.
+positioning,The positioning attribute of the player.
+vision,The vision attribute of the player.
+penalties,The penalties attribute of the player.
+composure,The composure attribute of the player.
+defending,The defending attributes of the player.
+marking,The marking attribute of the player.
+standing_tackle,The standing tackle attribute of the player.
+sliding_tackle,The sliding tackle attribute of the player.
+goalkeeping,The goalkeeping attributes of the player.
+gk_diving,The goalkeeper diving attribute of the player.
+gk_handling,The goalkeeper handling attribute of the player.
+gk_kicking,The goalkeeper kicking attribute of the player.
+gk_positioning,The goalkeeper positioning attribute of the player.
+gk_reflexes,This refers to the goalkeeper's ability to react and make saves quickly.
+total_stats,This refers to the overall rating of the player based on their performance in all areas of the game.
+base_stats,This refers to the player's rating in the six main areas of the game
+w/f,This refers to the player's weaker foot ability.
+sm,This refers to the player's skill moves ability. 
+a/w,"This refers to the player's attacking work rate. It measures how frequently the player participates in attacking actions, such as making runs or positioning themselves in the opponent's half."
+d/w,"This refers to the player's defensive work rate. It measures how frequently the player participates in defensive actions, such as tracking back or making tackles."
+ir,This refers to the player's injury resistance. It measures the player's ability to avoid injuries and how quickly they recover from them.
+pac,This refers to the player's pace or speed attribute. It measures how quickly the player can move with and without the ball.
+sho,This refers to the player's shooting ability. It measures the player's accuracy and power when shooting the ball.
+pas,This refers to the player's passing ability. It measures the player's accuracy and range when passing the ball.
+dri,"This refers to the player's dribbling ability. It measures the player's agility, balance, and ball control when dribbling the ball."
+def,"This refers to the player's defensive ability. It measures the player's ability to tackle, intercept, and defend against opposing players. "
+phy,This refers to the player's physicality or strength. It measures the player's ability to win physical battles and maintain possession of the ball. 
+hits,This refers to the number of times the player's profile has been viewed on the website.
+ova,The overall rating of the player in FIFA 21.
+height_m,The height of the player in metres.
+height_ft,The height of the player in feet.
+weight_kg,The weight of the player in kg.
+preferred_foot,The preferred foot of the player.
+value_million_euros,"The market value of the player in FIFA 21, in millions of euros."
+wage_million_euros,"The weekly wage of the player in FIFA 21, in millions of euros."
+release_clause_million_euros,"The release clause value of the player in FIFA 21, in millions of euros."
