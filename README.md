@@ -11,3 +11,6 @@ There is also a csv file with the
 [clean dataset](https://github.com/chusk2/data_cleaning_challenge_fifa21/blob/ffd2ce9ca9d7da8edf3d2a60c234480a67b96f4f/clean_dataset_fifa21.csv)
 
 The raw data were obtained from file `fifa21 raw data v2.csv` and the description of every variable in the dataset was processed and exported to a dsv fiel called `variable_description.csv`. 
+
+# EDA of FIFA 2021 dataset
+After the cleaning of the dataset, I've make an exploratory data analysis on the data. The purpose is to gain some insights from the study of data.
