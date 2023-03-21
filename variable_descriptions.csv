@@ -72,5 +72,5 @@ height_ft,The height of the player in feet.
 weight_kg,The weight of the player in kg.
 preferred_foot,The preferred foot of the player.
 value_million_euros,"The market value of the player in FIFA 21, in millions of euros."
-wage_million_euros,"The weekly wage of the player in FIFA 21, in millions of euros."
+annual_wage_million_euros,"The weekly wage of the player in FIFA 21, in millions of euros."
 release_clause_million_euros,"The release clause value of the player in FIFA 21, in millions of euros."
